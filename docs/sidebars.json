@@ -13,6 +13,11 @@
           "type": "doc",
           "id": "overview/basic-features",
           "label": "Basic features"
+        },
+        {
+          "type": "doc",
+          "id": "overview/instructions",
+          "label": "How To Use PRESTO Pull-out Requisition Module ( Reviewer and Approver )"
         }
       ]
     },
