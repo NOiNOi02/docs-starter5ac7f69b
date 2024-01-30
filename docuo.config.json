@@ -3,7 +3,7 @@
   "favicon": "image/favicon.ico",
   "themeConfig": {
     "navbar": {
-      "title": "My%20project",
+      "title": "",
       "logo": "https://media-resource.spreading.io/docuo/workspace25/9f634aa8418e04f4a6162fae86bdcc79/logo.png",
       "items": [
         {
@@ -15,7 +15,7 @@
           "position": "left"
         }
       ],
-      "iconRedirectUrl": "https://sampleknowledgebase.spreading.io/"
+      "iconRedirectUrl": ""
     },
     "footer": {
       "logo": "image/logo.png",
